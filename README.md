@@ -15,7 +15,7 @@
 
 - 📝 I Publish My some Work in Live link in Vercel [https://vercel.com/mohiuddin-murads-projects](https://vercel.com/mohiuddin-murads-projects)
 
-- 💬 Ask me about **Html5,Css3,Javascript,Bootstrap5,React Js**
+- 💬 Ask me about **Html5,Css3,Javascript,Telwind,Bootstrap5,React Js**
 
 - 📫 How to reach me **murad.my00@gmail.com**
 
